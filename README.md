@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Kamble</h1>
 <h3 align="center">A Passionate Electronics and Telecommunication Engineer from India</h3>
 
-<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshpatil2418&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikamble486" /> </p>--->
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshikamble4868&label=Profile%20views&color=0e75b6&style=flat" alt="sakshikamble486" /> </p>--->
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshikamble486" alt="jayeshpatil2418" /></a> </p>--->
 
@@ -9,11 +9,11 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- 🔭 I’m currently working on **Eventify: A College Event Organizer Application** (project link will be soon available)
+- 🔭 I’m currently working on **** (project link will be soon available)
 
 - 🌱 I’m currently learning **Flutter,Dart Programming Language**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **Java Projects and Embedded system**
 
 - 👨‍💻 All of my projects are available at (Project link will be available soon...)
 
